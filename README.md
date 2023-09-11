@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Esta documentación técnica en HTML y CSS proporciona información detallada sobre el JavaScript, que contine informacion importante para guiar a quien lo visitem en los conceptos importantes de este lenguaje de programación.
+Esta documentación técnica en HTML y CSS proporciona información detallada sobre JavaScript, que contiene información importante para guiar a quienes lo visiten en los conceptos importantes de este lenguaje de programación.
 
 ## Tabla de Contenidos
 
